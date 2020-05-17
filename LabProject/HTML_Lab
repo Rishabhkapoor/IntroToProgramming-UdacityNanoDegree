@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>
+    Lab Solution
+ </title>
+</head>
+
+<body>
+ <strong>HTML Notes</strong><br>
+ <strong>MARKUP</strong> is a code that tells the browser that what the  <em>text</em> should look like. <br>
+ <p>Full form of <em>HTTP</em> is hyper text markup protocol. </p>
+ <p>Full form of <em>HTML</em> is hyper text markup language .</p> 
+ <ol>
+    <li>Car Brands<ul><li>Hyundai<li>Honda</ul>
+    <li>Motorcycle Brands<ul><li>BMW<li>Bajaj</li></ul>
+</ol><br>
+Nested list-<br>
+<ul>
+    <li><em>Air-Conditioners</em>
+        <ol>
+            <li>Window
+            <li>Split
+	    <li>Central
+        </ol>
+    <li><em>Pens</em>
+        <ol>
+            <li>Gel pens
+            <li>Fountain pens
+	    <li>Ball pens
+        </ol>
+</ul>
+I've used identation to help show which element are nested <em>inside</em> other elements<br><br>
+
+<p>Link to my favourite website is <a href="https://www.udacity.com/">Udacity</a></p>
+
+Here is a picture of a Puppy <img src="http://place-puppy.com/200x200" alt="Puppy"><br>
+</body>
+
+</html>
